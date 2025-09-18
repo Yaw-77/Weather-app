@@ -1,3 +1,13 @@
+Group Name: TechSmiths
+Group members:
+Quarcoo Anue Josiah-01243574B
+Bidow Henry Baba Razak -01245151B
+Adzah Richard Khalel Annor - 01244415B
+Johnson Adzomah - 01246568B
+Adovor Kakah Robert - 01244193B
+
+CONTENT
+
 Global Weather Forecast Website
 A Python-based web application built with Streamlit that allows users to view weather forecasts for cities around the world.
 
@@ -41,4 +51,5 @@ Pandas: Data manipulation and analysis
 License
 This project is open source and available under the MIT License.
 
-Editor
+
+
